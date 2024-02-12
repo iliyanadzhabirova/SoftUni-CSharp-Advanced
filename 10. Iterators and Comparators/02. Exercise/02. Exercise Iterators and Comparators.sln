@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ListyIterator", "01.ListyIterator\01.ListyIterator.csproj", "{FF005A98-8BAE-4D58-82DC-94C278686393}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Collection", "02.Collection\02.Collection.csproj", "{9AC1465B-FDBC-4BCD-93D4-A21232092A9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Stack", "03.Stack\03.Stack.csproj", "{C59A29BA-A508-423C-9ECE-D32F3C8E0783}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Froggy", "04.Froggy\04.Froggy.csproj", "{EA1638C4-18E2-4E36-A998-B535309D7985}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.ComparingObjects", "05.ComparingObjects\05.ComparingObjects.csproj", "{53D9C2DC-1B6E-4395-BC28-3F1774961957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualityLogic", "06.EqualityLogic\06.EqualityLogic.csproj", "{CC591C9E-79B6-414F-B8DE-9C137CDDFBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CustomComparator", "07.CustomComparator\07.CustomComparator.csproj", "{9775F6B6-C903-4BC1-9935-5A563EFE2559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF005A98-8BAE-4D58-82DC-94C278686393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF005A98-8BAE-4D58-82DC-94C278686393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF005A98-8BAE-4D58-82DC-94C278686393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF005A98-8BAE-4D58-82DC-94C278686393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC1465B-FDBC-4BCD-93D4-A21232092A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC1465B-FDBC-4BCD-93D4-A21232092A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC1465B-FDBC-4BCD-93D4-A21232092A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC1465B-FDBC-4BCD-93D4-A21232092A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59A29BA-A508-423C-9ECE-D32F3C8E0783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59A29BA-A508-423C-9ECE-D32F3C8E0783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59A29BA-A508-423C-9ECE-D32F3C8E0783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59A29BA-A508-423C-9ECE-D32F3C8E0783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1638C4-18E2-4E36-A998-B535309D7985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1638C4-18E2-4E36-A998-B535309D7985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1638C4-18E2-4E36-A998-B535309D7985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1638C4-18E2-4E36-A998-B535309D7985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D9C2DC-1B6E-4395-BC28-3F1774961957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D9C2DC-1B6E-4395-BC28-3F1774961957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D9C2DC-1B6E-4395-BC28-3F1774961957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D9C2DC-1B6E-4395-BC28-3F1774961957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC591C9E-79B6-414F-B8DE-9C137CDDFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC591C9E-79B6-414F-B8DE-9C137CDDFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC591C9E-79B6-414F-B8DE-9C137CDDFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC591C9E-79B6-414F-B8DE-9C137CDDFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9775F6B6-C903-4BC1-9935-5A563EFE2559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9775F6B6-C903-4BC1-9935-5A563EFE2559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9775F6B6-C903-4BC1-9935-5A563EFE2559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9775F6B6-C903-4BC1-9935-5A563EFE2559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D37DAC-40C5-427F-953F-BE21D0390510}
+	EndGlobalSection
+EndGlobal
